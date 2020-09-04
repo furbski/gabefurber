@@ -3,7 +3,7 @@ authors = []
 date = 2020-09-04T06:24:00Z
 excerpt = "Hopefully this is working correctly."
 hero = "/images/monet.jpg"
-title = "Test jounral entry"
+title = "Test journal entry"
 
 +++
 # Here we are.
