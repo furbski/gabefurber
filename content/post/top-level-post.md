@@ -2,7 +2,7 @@
 authors = ["Gabriel Furber"]
 date = 2020-09-04T06:34:00Z
 excerpt = "Perhaps the folder is causing an issue..."
-hero = ""
+hero = "/images/monet.jpg"
 title = "Top level post"
 
 +++
