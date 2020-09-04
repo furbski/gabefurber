@@ -2,7 +2,7 @@
 authors = []
 date = 2020-09-04T06:24:00Z
 excerpt = "Hopefully this is working correctly."
-hero = "/static/images/a51eaaa0556978c95729bad16da2d4fe.jpg"
+hero = "/static/images/20200704_131254-1.jpg"
 title = "Test jounral entry"
 
 +++
