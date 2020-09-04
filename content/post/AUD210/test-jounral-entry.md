@@ -1,5 +1,5 @@
 +++
-authors = [Gabriel Furber]
+authors = ["Gabriel Furber"]
 date = 2020-09-04T06:24:00Z
 excerpt = "Hopefully this is working correctly."
 hero = "/images/monet.jpg"
