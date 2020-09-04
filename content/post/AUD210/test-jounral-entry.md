@@ -8,7 +8,7 @@ title = "Test jounral entry"
 +++
 # Here we are.
 
-Now lets see if this is how it's supposed to work.
+Now lets see if this is working properly.
 
 I couldn't find the stylesheet to edit. Turns out it was pulling from the master repository. Good for getting updates, but I want to customise.
 
