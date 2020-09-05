@@ -2,3 +2,5 @@ baseURL: "https://gabefurber.com"
 languageCode: "en-us"
 title: "Gabe Furber"
 pygmentsstyle: 'monokai'
+taxonomies:
+  author: "Gabe Furber"
