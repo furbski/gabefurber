@@ -40,16 +40,10 @@ The blockquote element represents content that is quoted from another source, op
 #### Blockquote with attribution
 
 > Don't communicate by sharing memory, share memory by communicating.
-> — <cite>Rob Pike[^(1)]</cite>
+> — <cite>Rob Pike[^21]</cite>
 
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-> Don't communicate.
-> — <cite>Rob Pike[^(John Boncham)]</cite>
-
-
-[^John Bonham]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+[^21]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 
 
@@ -132,3 +126,8 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+
+
+<div class="Image__Small">
+  <img src="/images/small.jpg" alt="alt text for small image" />
+</div>
