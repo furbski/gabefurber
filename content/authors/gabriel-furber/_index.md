@@ -1,4 +1,4 @@
----
++++
 title: Gabriel Furber
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
@@ -16,7 +16,7 @@ social:
     url: https://github.com
   - title: github
     url: https://github.com
----
++++
 
 
 ///+++
