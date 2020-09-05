@@ -8,8 +8,8 @@ features = ["dark mode", "grid view"]
 min_version = "0.55.0"
 
 [author]
-    name = "The New Dynamic"
-    homepage = "https://www.thenewdynamic.com/"
+    name = "Gabe Furber"
+    homepage = "https://www.gabefurber.com/"
 
 # If porting an existing theme
 [original]
