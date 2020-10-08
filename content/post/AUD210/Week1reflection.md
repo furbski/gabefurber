@@ -86,3 +86,9 @@ Starting with something easy like a plan for any given topic or project is a goo
 
 
 I think I typically have trouble with the consistency aspect of it. I don't know how best to overcome that.	
+
+TODO:
+
+Analysis of a house subgenre - 
+
+Your synth sounds
