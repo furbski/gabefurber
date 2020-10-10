@@ -7,22 +7,16 @@
           © {{ dateFormat "2006" now }} {{ .Site.Title }}
         </div>
         {{ partial "social-links/social-links.html" . }}
-
-        <div class="nav-controls">
-      		<button id="copyButton" class="icon-wrapper">
+<!--   		<button id="copyButton" class="icon-wrapper">
       		{{ partial "icons/ui/link.html" . }}
        		<div id="toolTip" class="tool-tip " >
        		     copied
      		   </div>
       		<input id="copyText" style="opacity: 0;" type="text" class="tool-tip " />
-      </button>
+      </button> -->
     </div>
 </div>
 </Section>
 
-
-{{ $script := resources.Get "js/toggleLogos.js" }}
-<script src="{{ $script.RelPermalink }}"></script>
-
-{{ $script := resources.Get "js/copyUrl.js" }}
+{{ $script := resources.Get "js/copyUrl.js" }}x
 <script src="{{ $script.RelPermalink }}"></script>
