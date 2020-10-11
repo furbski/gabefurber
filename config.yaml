@@ -1,6 +1,6 @@
-baseURL: "https://gabefurber.com"
+baseURL: "https://gabrielfurber.com"
 languageCode: "en-us"
-title: "Gabe Furber"
+title: "Gabriel Furber"
 pygmentsstyle: 'monokai'
 taxonomies:
-  author: "Gabe Furber"
+  author: "Gabriel Furber"
