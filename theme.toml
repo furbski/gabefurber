@@ -1,15 +1,15 @@
-name = "Gabe Furber"
+name = "Gabriel Furber"
 license = "MIT"
 licenselink = "https://github.com/furbski/gabefurber/blob/master/LICENSE"
 description = ""
-homepage = "https://gabefurber.com/"
+homepage = "https://gabrielfurber.com/"
 tags = ["blog"]
 features = ["dark mode", "grid view"]
 min_version = "0.55.0"
 
 [author]
-    name = "Gabe Furber"
-    homepage = "https://www.gabefurber.com/"
+    name = "Gabriel Furber"
+    homepage = "https://www.gabrielfurber.com/"
 
 # If porting an existing theme
 [original]
