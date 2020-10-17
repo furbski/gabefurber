@@ -1,9 +1,9 @@
 ---
 title: "Vox Machina"
 date: 2020-10-13T20:09:42+11:00
-hero: /images/hero-3.jpg
+hero: /images/london-window.jpg
 author: "Gabriel Furber"
-excerpt: "The art of a vocal chop"
+excerpt: "The art of the vocal chop"
 draft: true
 ---
 

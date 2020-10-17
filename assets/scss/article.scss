@@ -140,7 +140,7 @@
     z-index: 1;
     width: 100%;
     max-width: 944px;
-    max-height: 420px;
+    max-height: 426px;
     overflow: hidden;
     margin: 0 auto;
     -webkit-box-shadow: 0 30px 60px -10px rgba(0, 0, 0, 0.2),
@@ -445,6 +445,12 @@
     cursor: pointer;
     color: var(--secondary);
     font-weight: 600;
+}
+
+.iframe{
+    display="flex"
+    justify-content="center"
+    align-items="center">
 }
 
 /**************************************ARTICLE BODY**************************************/

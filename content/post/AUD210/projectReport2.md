@@ -1,13 +1,25 @@
 ---
 title: "Beauty in Imperfection"
 date: 2020-10-07T20:12:59+11:00
-hero: /images/hero-3.jpg
+hero: /images/desert.jpg
 author: "Gabriel Furber"
-excerpt: "Lane 8's analog sound"
+excerpt: "Lane 8's dusty sound"
 draft: true
 ---
 
-<iframe src="https://open.spotify.com/embed/track/0jzZfB1qjzz69MmQHoBc0S" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+{{< rawhtml >}}
+<iframe 
+	src="https://open.spotify.com/embed/track/0jzZfB1qjzz69MmQHoBc0S" 
+	width="300" 
+	height="380" 
+	frameborder="0" 
+	allowtransparency="true" 
+	allow="encrypted-media">
+</iframe>
+
+{{< /rawhtml >}}
+
 Artist: Lane 8
 
 Reference track: Atlas
