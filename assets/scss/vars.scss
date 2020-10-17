@@ -11,7 +11,7 @@ body{
     /*FONTS*/
     --serif: "Playfair Display", "Merriweather", Georgia, Serif;
     --sanserif: "Montserrat", "SF Pro Display", "-apple-system", "BlinkMacSystemFont", "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI", "Arial", sans-serif;
-    --monospace: "Operator Mono", Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+    --monospace: "Space Mono", "Operator Mono", Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
 
     /*COLOR MODE TRANSITION*/
     --color-mode-transition: background 0.25s var(--ease-in-out-quad), color 0.25s var(--ease-in-out-quad);
@@ -21,7 +21,7 @@ body{
     --secondary: #73737D;
     --grey: #73737D;
     --background-color: #fafafa;
-    --accent: #FF0064;
+    --accent: #ccc;
     --hover: rgba(0, 0, 0, 0.07);
     --gradient: linear-gradient(180deg, rgba(217, 219, 224, 0) 0%, #D9DBE0 100%);
     --articleText: #08080B;
