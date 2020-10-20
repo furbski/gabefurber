@@ -7,7 +7,7 @@ excerpt: "Musical Escapism"
 draft: false
 ---
 
-Tropical House is a genre that you may not know the name of, but if you were listening to the radio sometime between 2013 and 2016 (Turner, 2016), you're certainly familiar with the sound - a slower, chiller, house beat with more bright synths, washy reverb, and perhaps most importantly, steel drums. Well, synthesized ones. The song structure also leans away from the repetition common in house, towards a poppier verse-chorus structure.
+Tropical House is a genre that you may not know the name of, but if you were listening to the radio sometime between 2013 and 2016 (Turner, 2016), you're certainly familiar with the sound - a slower, chiller, house beat with more bright synths, washy reverb, and perhaps most importantly, steel drums. Well, synthesized ones at least. The song structure also leans away from the repetition typical of house, towards a poppier verse-chorus structure.
 These elements, along with the hazy, summery production, more cheerful chords, and marimbas, define the sonic character. 
 
 Here's what I'm talking about:
@@ -29,17 +29,17 @@ Here's what I'm talking about:
 
 
 ## So where did it come from?
-The sound of the genre is rooted in the sound of dancehall (Brown, 2016), most clearly demonstrated with the Dembow rhythm present in some tracks - and more directly, deep and melodic house. (EDM Exclusives, 2014; Turner, 2016)
+The sonic roots of the genre are in Deep and Melodic House (EDM Exclusives, 2014; Turner, 2016), but also in the sound of dancehall (Brown, 2016). This can be most clearly heard  with the Dembow rhythm present in some tracks.
 
-Kygo came up with the style when he was experimenting with different sounds in his cold, rainy Norwegian hometown. "That rain might definitely be a reason, like when you’re sitting inside and you look out the window and you kind of daydream about being somewhere else" (Orlov, 2016).
-
-That feeling is emblematic of the genre - it never took itself too seriously, with it's very name originating as a joke by one of it's pioneers, Thomas Jack (Guarino, 2014).
+Kygo - remixer of the track above - came up with the style when he was experimenting with different sounds in his cold, rainy Norwegian hometown. "That rain might definitely be a reason, like when you’re sitting inside and you look out the window and you kind of daydream about being somewhere else" (Orlov, 2016). That feeling is emblematic of the genre.
 
 
 
-## Who cares anyway?
+## Who cares?
 
-Fair question - it's not a sound that appeals to everybody, with some people dismissing the genre as "meaningless and ironic" (Trooper, 2016). It clearly has some appeal however, since Kygo - remixer of the track above - was the fastest artist to pass 1 billion Spotify streams (Barshad, 2016; Turner, 2016). Even so, both he and Thomas Jack have expressed their desire to move on from the sound. (Orlov, 2016; Turner, 2016)
+Fair question - it's not a mood that appeals to everybody, with some people dismissing the genre as "meaningless and ironic" (Trooper, 2016). Such cheerful music can come off as saccharine, or inauthentic. Both Kygo and Thomas Jack - another pioneer of the genre - have expressed their desire to move on. (Orlov, 2016; Turner, 2016)
+
+It clearly has some appeal however, since Kygo was the fastest artist to pass 1 billion Spotify streams (Barshad, 2016; Turner, 2016). Besides, it never took itself that seriously anyway. The very name of the genre originated as a joke by Thomas Jack (Guarino, 2014).
 
 Personally, I think the meaningless escapism one of it's strongest qualities. It doesn't have to be complex, only to provide good vibes and a danceable beat. Such restrictions mean it may never advance beyond what was in 2016, but when you need to pretend you're relaxing on the beach, Tropical House will be waiting for you, piña colada in hand.
 
