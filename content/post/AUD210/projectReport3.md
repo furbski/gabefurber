@@ -7,7 +7,7 @@ excerpt: "The art of the vocal chop"
 draft: true
 ---
 
-
+Flume????
 
 Write a blog post of at least 300 words where you analyse an electronic music artist’s approach to sampling in their music production
 • Aim to find an artist whose work you can draw upon in your own EMP Remix project

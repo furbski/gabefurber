@@ -1,6 +1,6 @@
 ---
 title: "Beauty in Imperfection"
-date: 2020-10-07T20:12:59+11:00
+date: 2020-10-07T20:12:59+11:00	
 hero: /images/desert.jpg
 author: "Gabriel Furber"
 excerpt: "Lane 8's dusty sound"
