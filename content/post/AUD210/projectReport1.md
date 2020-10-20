@@ -14,15 +14,6 @@ Here's what I'm talking about:
 
 {{< rawhtml >}}
 <iframe 
-	src="https://open.spotify.com/embed/track/0toJeVTW2hHX9qYVmdOpBs" 
-	width="300" 
-	height="380" 
-	frameborder="0" 
-	allowtransparency="true" 
-	allow="encrypted-media">
-</iframe>
-
-<iframe 
 	frameborder="0" 
 	scrolling="no" 
 	marginheight="0" 
@@ -36,6 +27,7 @@ Here's what I'm talking about:
 {{< /rawhtml >}}
 
 
+
 ## So where did it come from?
 The sound of the genre is rooted in the sound of dancehall (Brown, 2016), most clearly demonstrated with the Dembow rhythm present in some tracks - and more directly, deep and melodic house. (EDM Exclusives, 2014; Turner, 2016)
 
@@ -44,11 +36,13 @@ Kygo came up with the style when he was experimenting with different sounds in h
 That feeling is emblematic of the genre - it never took itself too seriously, with it's very name originating as a joke by one of it's pioneers, Thomas Jack (Guarino, 2014).
 
 
+
 ## Who cares anyway?
 
 Fair question - it's not a sound that appeals to everybody, with some people dismissing the genre as "meaningless and ironic" (Trooper, 2016). It clearly has some appeal however, since Kygo - remixer of the track above - was the fastest artist to pass 1 billion Spotify streams (Barshad, 2016; Turner, 2016). Even so, both he and Thomas Jack have expressed their desire to move on from the sound. (Orlov, 2016; Turner, 2016)
 
 Personally, I think the meaningless escapism one of it's strongest qualities. It doesn't have to be complex, only to provide good vibes and a danceable beat. Such restrictions mean it may never advance beyond what was in 2016, but when you need to pretend you're relaxing on the beach, Tropical House will be waiting for you, piña colada in hand.
+
 
 
 ### Bibliography
