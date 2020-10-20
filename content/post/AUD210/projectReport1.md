@@ -16,7 +16,8 @@ Here's what I'm talking about:
 <iframe 
 	frameborder="0" 
 	scrolling="no" 
-	margin="0, auto, 35px"
+	marginheight="0" 
+	marginwidth="0"
 	width="788.54" 
 	height="443" 
 	type="text/html" 
