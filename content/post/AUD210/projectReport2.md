@@ -1,31 +1,34 @@
 ---
-title: "Lane 8"
+title: "Beauty in imperfection"
 date: 2020-10-07T20:12:59+11:00	
 hero: /images/desert.jpg
 author: "Gabriel Furber"
-excerpt: "On getting an analog sound out of a soft synth"
+excerpt: "How and why Lane 8 makes software sound analog."
 draft: true
 ---
 
-I was recently fortunate enough to stumble upon Lane 8.
+I was recently fortunate enough to stumble upon a new musical fascination.
 
-[Brief description]
+Daniel Goldstein, aka Lane 8, is a producer who started making waves back in 2015 and has been on a steady climb since. He's a modern melodic house artist, signed to Anjunadeep - complete with a sound distinct to the label. 
 
-This guy is really good at making a simple melodic idea sound interesting and dynamic with the use of automation and modulation in the form of envelopes and LFOs.
+This guy is really good at making a simple melodic idea sound interesting and dynamic with the use of automation and modulation in the form of envelopes and LFOs. 
+	[swap these?]
+Not only that, he chooses parameters that lead to a warm, analog sound, [despite primarily using software synthesizers](https://www.youtube.com/watch?v=G_eGfgCzQis&t=237).
 
-Not only that, he chooses parameters that lead to a warm, analog sound, [despite primarily using software synthesizers](https://www.youtube.com/watch?v=G_eGfgCzQis).
+Here's how he does it. 
 
-So, here's how he does it. 
+
 
 ## Parameters
+In analog hardware synthesis the chaotic, unstable, and organic sound comes for free. No such luck in the digital environment. Thankfully there's a few key things you can change to get the desired tone.
 
-Take a listen to the synths in this section [Timestamp]
+Take a listen to a recent track - Yard Two Stone, on the Brightest Lights LP from January this year.
 
 {{< rawhtml >}}
 <iframe 
 	frameborder="0" 
 	scrolling="no" 
-	marginheight="50%" 
+	marginheight="0" 
 	marginwidth="0"
 	padding=""
 	width="788.54" 
@@ -35,52 +38,42 @@ Take a listen to the synths in this section [Timestamp]
 </iframe>
 {{< /rawhtml >}}
 
-This track is a good demonstration of the way he makes dusty, crunchy, fuzzy synth sounds.
 
-He says in that interview that he likes to start with a simple arp.
-The one in the song he demos at 6:00 is just a sawtooth with some white noise in sylenth. (and a pitch LFO that changes in speed - vibrato)
+Right from the start you can hear some crunchy saturation on the chords - distortions reminiscent of the sound of magnetic tape exceeding it's volume capacity. This sounds to me like a Wurli that's been completely crushed.
+Accompanying that is some subtle pitch oscillation on the lead synth, another mimicry of the shortcomings of older media.
+It's worth noting there's also some saturation on the vocals and some background synth elements. This is probably an effect on a send, not a setting within the synth itself, but it alters the waveform all the same.
 
+During the intro, there's a few moments where you can hear the comb filtering probably caused by a slight detune that emulates oscillator drift in a hardware synth. 
 
+It's also worth noticing that the synths are filtered a fair bit in the high end, akin to how old recording and playback methods would have changed the character.
+Filtering - hi/low shelf EQ can replicate the loss of certain frequencies caused by old 
 
-
-
-He's a modern melodic house artist, signed to Anjunadeep - with a sound distinct to that label. 
+Noise - probably feels similar to tape hiss and vinyl crackle - nostalgic. Modern hardware isn't noisy, even analog.
 
 
 ## Modulation
-
-Altas???
-Just - on brightest lights has a fucking sick vocal melody & melodic line.
-https://open.spotify.com/track/6BHx1NCBASduR31WNTzm5S?si=O2-0sC7VTYmlfLn3RbQufw
-
-
-
+He says in that interview that he likes to start with a simple arp.
 
 As is convention in the this style of music, the actual composition isn't very complex. The entire track hangs on the modulation of the synth sounds, particularly the lead arp. Getting variable levels of reverb, decay times, delay sends, cutoff frequency, and so on.
 
 So it needs to be compelling.
 
-At [TIMESTAMP] you can hear [THING]
-and at [ANOTHER] you can hear [OTHER STUFF]
+This collaboration from August with Yotto, an artist that exists in a similar niche as Lane 8, showcases just how much this genre hangs itself from synthesis.
 
+The melody is a repetetive, catchy ostinato with a few variations. It has a kind of hypnotic effect to repeat the same melody for an entire track, but to prevent it from becoming maddening it needs to be constantly moving and evolving. It manages to remain sonically dynamic as filters, sends, envelopes, and other parameters automate, and it maintains musical interest by constantly changing relationship to the bass, harmony, and other melodic elements.
 
-Because that's what lane 8 does with his synths. He makes them come alive.
-He chooses one melodic idea and plays it over all kinds of different stuff to make different vibes. He keeps it from getting stagnant by keeping it moving constantly.
+This kind of music goes through a journey and evolution as you listen.
 
-I'm going to make use of his modulation to make my track sound alive.
-
-
-
-
-
-
-
-
-## Conclusion
-
-
-Which roles does synthesis play in his productions?
-
-Era and genre as it relates so synthesis!
-
-
+{{< rawhtml >}}
+<iframe 
+	frameborder="0" 
+	scrolling="no" 
+	marginheight="0" 
+	marginwidth="0"
+	padding=""
+	width="788.54" 
+	height="443" 
+	type="text/html" 
+	src="https://www.youtube.com/embed/ZFhJsY3HudY?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0">
+</iframe>
+{{< /rawhtml >}}
