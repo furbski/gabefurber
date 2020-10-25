@@ -1,5 +1,5 @@
 ---
-title: "Bonobo"
+title: "Reclaimed Sound"
 date: 2020-10-13T20:09:42+11:00
 hero: /images/london-window.jpg
 author: "Gabriel Furber"

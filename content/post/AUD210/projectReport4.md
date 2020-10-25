@@ -1,9 +1,9 @@
 ---
-title: "Remix Plan"
+title: "Remix Progress Update"
 date: 2020-10-25T01:28:50+11:00
 hero: /images/summertime_remix_cover.jpg 
 author: "Gabriel Furber"
-excerpt: "What I've been practicing and learning."
+excerpt: "What I've been up to lately"
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Beauty in imperfection"
 date: 2020-10-07T20:12:59+11:00	
 hero: /images/desert.jpg
 author: "Gabriel Furber"
-excerpt: "How and why Lane 8 makes software sound analog."
+excerpt: "How and why Lane 8 makes software sound analog"
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Tropical House"
 date: 2020-09-29T15:55:48+10:00
 hero: /images/corrugated-leaf.jpg 
 author: "Gabriel Furber"
-excerpt: "Necessary moral boost or meaningless sensory delight?"
+excerpt: "Necessary moral boost or meaningless sensory delight"
 draft: false
 ---
 
