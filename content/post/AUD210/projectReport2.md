@@ -12,7 +12,7 @@ I was recently fortunate enough to stumble upon a new musical fascination.
 Daniel Goldstein, aka Lane 8, is a producer who started making waves back in 2015 and has been on a steady climb since. He's a modern melodic house artist, signed to Anjunadeep - complete with a sound distinct to the label. 
 
 This guy is really good at making a simple melodic idea sound interesting and dynamic with the use of automation and modulation in the form of envelopes and LFOs. 
-	[swap these?]
+
 Not only that, he chooses parameters that lead to a warm, analog sound, [despite primarily using software synthesizers](https://www.youtube.com/watch?v=G_eGfgCzQis&t=237).
 
 Here's how he does it. 
