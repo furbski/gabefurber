@@ -31,7 +31,11 @@ Here's what I'm talking about:
 ## So where did it come from?
 The sonic roots of the genre are in Deep and Melodic House (EDM Exclusives, 2014; Turner, 2016), but also in the sound of dancehall (Brown, 2016). This can be most clearly heard  with the Dembow rhythm present in some tracks.
 
-Kygo - remixer of the track above - came up with the style when he was experimenting with different sounds in his cold, rainy Norwegian hometown. "That rain might definitely be a reason, like when you’re sitting inside and you look out the window and you kind of daydream about being somewhere else" (Orlov, 2016). That feeling is emblematic of the genre.
+Kygo - remixer of the track above - came up with the style when he was experimenting with different sounds in his cold, rainy Norwegian hometown. 
+
+>"That rain might definitely be a reason, like when you’re sitting inside and you look out the window and you kind of daydream about being somewhere else" (Orlov, 2016)
+
+A feeling emblematic of the genre.
 
 
 

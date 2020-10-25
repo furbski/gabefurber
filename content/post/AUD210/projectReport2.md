@@ -4,7 +4,7 @@ date: 2020-10-07T20:12:59+11:00
 hero: /images/desert.jpg
 author: "Gabriel Furber"
 excerpt: "How and why Lane 8 makes software sound analog."
-draft: true
+draft: false
 ---
 
 I was recently fortunate enough to stumble upon a new musical fascination.
