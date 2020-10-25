@@ -3,8 +3,8 @@ title: "Bonobo"
 date: 2020-10-13T20:09:42+11:00
 hero: /images/london-window.jpg
 author: "Gabriel Furber"
-excerpt: "Using samples to sound unique"
-draft: true
+excerpt: "Making new from old"
+draft: false
 ---
 
 Simon Green, better known as Bonobo, is an english producer/DJ who has been active since before the turn of the millennium.
@@ -38,7 +38,7 @@ This gives him a unique sonic character, and sets his work apart from a lot of e
 	height="380" 
 	frameborder="0" 
 	allowtransparency="true" 
-	allow="encrypted-media">
+	allow="encrypted-media"
 </iframe>
 {{< /rawhtml >}}
 

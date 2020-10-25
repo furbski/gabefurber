@@ -23,7 +23,6 @@ Here's what I'm talking about:
 	type="text/html" 
 	src="https://www.youtube.com/embed/VvdhCmeFQfU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0">
 </iframe>
-
 {{< /rawhtml >}}
 
 
