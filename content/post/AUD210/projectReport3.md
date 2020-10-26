@@ -38,7 +38,7 @@ This gives him a unique sonic character, and sets his work apart from a lot of e
 	height="380" 
 	frameborder="0" 
 	allowtransparency="true" 
-	allow="encrypted-media"
+	allow="encrypted-media">
 </iframe>
 {{< /rawhtml >}}
 
