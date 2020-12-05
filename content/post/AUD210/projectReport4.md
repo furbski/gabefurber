@@ -7,9 +7,9 @@ excerpt: "What I've been up to lately"
 draft: false
 ---
 
-I've been working on a remix for Nu Flava's(?) track Summertime the last few weeks. 
 
 -- Include a link to the original track here when available --
+I've been working on a remix for a classmate's unreleased track Summertime the last few weeks. 
 
 I'm turning this into something in the vein of Tropical House, since it felt thematically appropriate. Here's how it has been going.
 
